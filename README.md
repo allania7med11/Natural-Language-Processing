@@ -15,7 +15,7 @@ this is a website application for extract the meaning of all kinds of unstructur
 
 ## Follow the instructions to start the project:
 
-1.add .env file with your MeaningCloud API .It should look like this:
+1.add .env file with your MeaningCloud API .It should look like this(see envexemple):
 API_KEY="YOUR API KEY"
 
 2.create node_module:
@@ -30,3 +30,8 @@ then open localhost:8080 to view application.
 
 5.To test run:
 npm run test
+
+
+## Hint:
+for testing you can use this API_KEY:
+API_KEY=e047fd2e10921df912dc33a8df371ff8
