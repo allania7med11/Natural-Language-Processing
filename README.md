@@ -35,3 +35,6 @@ npm run test
 ## Hint:
 for testing you can use this API_KEY:
 API_KEY=e047fd2e10921df912dc33a8df371ff8
+
+for getting reviews to test the app you can visit https://www.tripadvisor.com/
+
