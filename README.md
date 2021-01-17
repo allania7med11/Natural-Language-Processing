@@ -31,7 +31,8 @@ then open localhost:8080 to view application.
 5.To test run:
 npm run test
 
-
+## Deployment Link
+https://naturalanguageprocessing.herokuapp.com/
 ## Hint:
 for testing you can use this API_KEY:
 API_KEY=e047fd2e10921df912dc33a8df371ff8
