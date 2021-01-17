@@ -4,12 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "debug": "node build.js && ndb src/server/index.js",
-    "build-dev": "webpack --watch --config webpack.dev.js",
-    "build-prod": "webpack --config webpack.prod.js",
-    "test": "jest",
-    "test:debug": "ndb jest",
-    "postinstall": "webpack --config webpack.prod.js",
     "start": "node build.js && node src/server/index.js"
   },
   "keywords": [],
